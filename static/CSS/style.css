@@ -1,0 +1,36 @@
+.box {
+    width: 300px;
+    border: 1px;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Roboto';
+    background-color: #ffffff;
+    height: 125px;
+    text-align: center;
+    padding: 20px;
+    margin: 30px auto 30px;
+}
+
+.gradient{
+    background: linear-gradient(135deg, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%);
+}
+
+.fancy-font {
+    font-family: 'Montserrat';
+}
+
+h3 {
+    padding: 0px;
+}
+
+p {
+    padding: 0px;
+}
+
+body {
+    background-color: #04e790;
+}
+
+html {
+    text-align: center;
+}
